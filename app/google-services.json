@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838543725768",
+    "project_id": "simple-phone-cc03e",
+    "storage_bucket": "simple-phone-cc03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838543725768:android:ac5871687ab3a5850b41fd",
+        "android_client_info": {
+          "package_name": "com.example.simplestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838543725768-2k292ed3sdo6hbnlb5o9dtpbni757dln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wWu6CkyILfJEx3b4wZWhtlIT2UbqVso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838543725768-2k292ed3sdo6hbnlb5o9dtpbni757dln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
